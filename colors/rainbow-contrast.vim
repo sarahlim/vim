@@ -29,7 +29,7 @@ let g:colors_name = "rainbow-contrast"
 "# Base Colors.                         #
 "########################################
 
-hi  Normal        guifg=#c7d0d9  guibg=#1c1f22  gui=NONE
+hi  Normal        guifg=#c7d0d9
 hi  Cursor        guifg=#16181a  guibg=#f8f8f0  gui=NONE
 hi  Visual        guifg=#ffffff  guibg=#b3cc57  gui=NONE
 hi  CursorLine    guifg=NONE     guibg=#1d2022  gui=NONE
@@ -47,7 +47,7 @@ hi  PmenuSel      guifg=NONE     guibg=#b3cc57  gui=NONE
 
 hi  IncSearch     guifg=#c7d0d9  guibg=#c78feb  gui=NONE
 hi  Search        guifg=NONE     guibg=NONE     gui=underline
-hi  MatchParen    guifg=#ef746f  guibg=NONE     gui=underline
+hi  MatchParen    guifg=#ef746f  guibg=#c78feb   gui=underline
 hi  Folded        guifg=#b8c3cf  guibg=#000000  gui=NONE
 hi  Directory     guifg=#b3cc57  guibg=NONE     gui=NONE
 
