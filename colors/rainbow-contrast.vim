@@ -43,7 +43,7 @@ hi  LineNr        guifg=#4e555e  guibg=#0a0b0c  gui=NONE
 hi  StatusLine    guifg=#c7d0d9  guibg=#0a0b0c  gui=bold
 hi  StatusLineNC  guifg=#c7d0d9  guibg=#0a0b0c  gui=NONE
 hi  Pmenu         guifg=#c7d0d9  guibg=#0a0b0c  gui=NONE
-hi  PmenuSel      guifg=NONE     guibg=#b3cc57  gui=NONE
+hi  PmenuSel      guifg=#ffffff  guibg=#b3cc57  gui=NONE
 
 hi  IncSearch     guifg=#c7d0d9  guibg=#c78feb  gui=NONE
 hi  Search        guifg=NONE     guibg=NONE     gui=underline
