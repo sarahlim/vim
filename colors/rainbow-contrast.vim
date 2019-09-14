@@ -130,10 +130,10 @@ hi  rustSelf               guifg=#c78feb         guibg=NONE     gui=italic
 "########################################
 
 " Applied in ~/.vimrc
-hi  GitGutterAddDefault    guifg=#a7da1e guibg=#0a0b0c
-hi  GitGutterChangeDefault guifg=#f7b83d guibg=#0a0b0c
-hi  GitGutterDeleteDefault guifg=#e61f44 guibg=#0a0b0c
-hi  SignColumn             guibg=#0a0b0c
+hi GitGutterAddDefault    guifg=#a7da1e guibg=#0a0b0c
+hi GitGutterChangeDefault guifg=#f7b83d guibg=#0a0b0c
+hi GitGutterDeleteDefault guifg=#e61f44 guibg=#0a0b0c
+hi SignColumn             guibg=#0a0b0c
 
 hi NERDTreeFile guifg=#b8c3cf
 hi NERDTreeDir guifg=#ef746f
